@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3",
+  "python.linting.pylintEnabled": true,
+  "python.linting.pylintArgs": [
+    "--disable=C0111",
+    "--load-plugins",
+    "pylint_django"
+  ]
+}
